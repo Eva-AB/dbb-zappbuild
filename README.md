@@ -1,5 +1,5 @@
 # zAppBuild
-zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs.
+zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) API.
 
 ## Resources
 * [IBM Dependency Based Build Product Page](https://www.ibm.com/products/dependency-based-build)
