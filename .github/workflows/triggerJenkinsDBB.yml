@@ -13,6 +13,7 @@ on:
 jobs:
   trigger-a-jenkins-job:
     runs-on: ubuntu-latest
+    environment: dbbDemo
     steps:
       - id: triggerjenkinsjob
         uses: mickeygoussetorg/trigger-jenkins-job@v1
